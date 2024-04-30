@@ -14,11 +14,11 @@ public class Ejercicio01 {
 			lista.add(i, i+1);
 		}
 		
-		System.out.println(Arrays.toString(lista.toArray()));
+		System.out.println(lista);
 		
 		Collections.shuffle(lista);
 		
-		System.out.println(Arrays.toString(lista.toArray()));
+		System.out.println(lista);
 		
 	}// main
 	
