@@ -1,4 +1,4 @@
-package primerosinterfaces;
+package primeroslistas;
 
 import java.util.Arrays;
 import java.util.Map;

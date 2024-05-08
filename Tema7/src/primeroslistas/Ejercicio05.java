@@ -1,4 +1,4 @@
-package primerosinterfaces;
+package primeroslistas;
 
 import java.util.Map;
 import java.util.Scanner;
